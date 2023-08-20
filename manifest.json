@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My IP",
+  "description": "Extension to tell you your current IP address",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "my-ip.png"
+  }
+}
