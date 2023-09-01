@@ -6,5 +6,6 @@ fetch('https://api.ipify.org?format=json')
         `Your public IP address is: ${ipAddress}`
     })
     .catch(error => {
-      console.error('Error fetching IP address:', error);
-    });
+      document.getElementById('my-ip').textContent =
+        `Error fetching IP address: ${error}`
+    })
