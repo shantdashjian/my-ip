@@ -26,7 +26,7 @@ Get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/my-
 
 ## Why
 1. I wanted to learn the process of publishing a Chrome extension on the Chrome Web Store. 
-2. I chose to implement the ***public IP address finder*** functionality since it is an easy yet useful one. Internet users already have other options like putting ***What is my IP address*** into Google, or something like `curls ifconfig.me` in Terminal. This Chrome extension option is more convenient since all it takes is one click on the icon and you have your public IP which you could then copy to your clipboard.
+2. I chose to implement the ***public IP address finder*** functionality since it is an easy yet useful one. Internet users already have other options like putting ***What is my IP address*** into Google, or something like `curl ifconfig.me` in Terminal. This Chrome extension option is more convenient since all it takes is one click on the icon and you have your public IP which you could then copy to your clipboard.
 
 ## Interesting
 1. The process of creating a developer account to publish your Chrome extension on the Chrome Web Store requires filling out your information. 
